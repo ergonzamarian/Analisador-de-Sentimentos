@@ -27,7 +27,6 @@ a Acurácia, Precisão, Recall e F1 Score na tela de execução onde o cálculo 
 
 Para medirmos o resultado, utiliza-se um percentual da base para treinamento e outro percentual para a avaliação dos resultados.
 -> 75% dos registros para treino e 25% para validação
-
 Como identifica-se o sentimento passado através de um texto?
 -> Transforma-se todos os comentários em uma lista de valores númericos que representam a frequência da cada palavra, Com essas frequências calculamos a pontuação para sentimentos positivos e para sentimentos negativos para cada uma das palavras, e por fim, o comentário completo.
 -> Utilizou-se para realizar tal procedimento o "CountVectorizer" importado do sklearn.feature_extraction.text e BernoulliNB do pacote sklearn.naive_bayes.
