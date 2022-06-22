@@ -43,7 +43,7 @@ PROPOSTA DO SOFTWARE
 
 -Proposta fornecida pelo Hemerson Pistori, professor da disciplina de inteligência artificial do curso de Engenharia de computação 8° semestre:  
 
-> Implementar um protótipo de sistema de IA usando aprendizagem automática para realizar análise de sentimento em textos de alguma rede social ou banco anotado disponível online
+> Implementar um protótipo de sistema de IA usando aprendizagem automática para realizar análise de sentimento em textos de alguma rede social ou banco anotado disponível online.
 
 -----------------------------
 INSTALAÇÃO MANUAL BIBLIOTECAS
